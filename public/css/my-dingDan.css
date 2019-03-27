@@ -1,0 +1,45 @@
+/*头部*/
+#section .dingDan-hd ul li {
+    width: 120px;
+    height: 22px;
+    border-left: 2px solid #EFEFEF;
+    float: left;
+    text-align: center;
+    line-height: 22px;
+    color: #D5BFA7;
+    font-size: 15px;
+    margin: 44px auto 0;
+    cursor: pointer;
+}
+
+#section .dingDan-hd ul li span {
+    width: 20px;
+    height: 15px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-top: -2px;
+
+}
+
+/*内容区*/
+
+#section .none {
+    display: none;
+}
+
+#section .show {
+    display: block;
+    color: #D5BFA7;
+    font-size: 12px;
+    text-align: center;
+    line-height: 190px;
+    height: 190px;
+}
+
+#section .dingDan-hd ul li.colorLi {
+    color: #71442A;
+    border-color: #71442A;: ;
+}
+
+
+
